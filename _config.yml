@@ -23,7 +23,7 @@ user:
   name: Kyungeun Lee
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: 경희대학교 경영학과
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
